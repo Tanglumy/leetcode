@@ -1,3 +1,9 @@
-# 汤陆的刷题repo
+# Leetcode Repo for Lumingyuan Tang.
+[toc]
 
-本仓库旨在提供一个汤陆刷题的解决方案。
+
+## C++ STL oveview
+## 剑指offer
+## 动态规划专题
+
+## 贪心专题
