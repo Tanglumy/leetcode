@@ -1,4 +1,4 @@
-# Leetcode Repo for Lumingyuan Tang.
+# Leetcode Solutions
 
 
 
