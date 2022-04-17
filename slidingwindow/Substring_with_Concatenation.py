@@ -1,5 +1,4 @@
 # link: https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
-
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
         result = []
